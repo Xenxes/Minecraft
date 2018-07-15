@@ -1,2 +1,2 @@
 git reset --hard
-git pull
+git pull origin master
