@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "DefaultProfile": {
+      "name": "DefaultProfile",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2705",
+      "javaArgs": "-Xmx5G -Xms5G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+UseBiasedLocking -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+UseCompressedOops -client -d64"
+    }
+  },
+  "selectedProfile": "DefaultProfile",
+  "clientToken": "0bb5fd0e-471a-4367-aa79-8f07a5b62dd3",
+  "authenticationDatabase": {
+  },
+  "selectedUser": "",
+  "launcherVersion": {
+    "name": "1.5.2",
+    "format": 17
+  }
+}
