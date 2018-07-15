@@ -21,3 +21,5 @@ launcher_log.txt
 crash-reports
 *.log
 assets
+Thumbs.db
+mods/JustEnoughButtons
