@@ -27,6 +27,7 @@ mods/JustEnoughButtons
 tv-cache
 psi_persistent
 versions/1.12.2-forge1.12.2-14.23.5.2772/1.12.2-forge1.12.2-14.23.5.2772-natives-*
+usernamecache.json
 
 config/*
 !config/RPG-HUD
