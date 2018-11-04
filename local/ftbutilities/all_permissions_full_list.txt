@@ -1,4 +1,4 @@
-12662 nodes in total
+12656 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1304,8 +1304,6 @@ ftbutilities.claims.block.edit.cookingforblockheads.sink: OP
 ftbutilities.claims.block.edit.cookingforblockheads.spice_rack: OP
 ftbutilities.claims.block.edit.cookingforblockheads.toaster: OP
 ftbutilities.claims.block.edit.cookingforblockheads.tool_rack: OP
-ftbutilities.claims.block.edit.coroutil.blank: OP
-ftbutilities.claims.block.edit.coroutil.repairing_block: OP
 ftbutilities.claims.block.edit.demonmobs.demoncrystal: OP
 ftbutilities.claims.block.edit.demonmobs.demonstone: OP
 ftbutilities.claims.block.edit.demonmobs.demonstone_slab: OP
@@ -4541,8 +4539,6 @@ ftbutilities.claims.block.interact.cookingforblockheads.sink: OP
 ftbutilities.claims.block.interact.cookingforblockheads.spice_rack: OP
 ftbutilities.claims.block.interact.cookingforblockheads.toaster: OP
 ftbutilities.claims.block.interact.cookingforblockheads.tool_rack: OP
-ftbutilities.claims.block.interact.coroutil.blank: OP
-ftbutilities.claims.block.interact.coroutil.repairing_block: OP
 ftbutilities.claims.block.interact.demonmobs.demoncrystal: OP
 ftbutilities.claims.block.interact.demonmobs.demonstone: OP
 ftbutilities.claims.block.interact.demonmobs.demonstone_slab: OP
@@ -8223,8 +8219,6 @@ ftbutilities.claims.item.cookingforblockheads.sink: ALL
 ftbutilities.claims.item.cookingforblockheads.spice_rack: ALL
 ftbutilities.claims.item.cookingforblockheads.toaster: ALL
 ftbutilities.claims.item.cookingforblockheads.tool_rack: ALL
-ftbutilities.claims.item.coroutil.item_repairing_gel: ALL
-ftbutilities.claims.item.coroutil.repairing_block: ALL
 ftbutilities.claims.item.demonmobs.cacodemontreat: ALL
 ftbutilities.claims.item.demonmobs.demoncrystal: ALL
 ftbutilities.claims.item.demonmobs.demoniclightningcharge: ALL
@@ -12692,8 +12686,6 @@ command.enchant
 command.endercore.scoreboardinfo
 command.entitydata
 command.execute
-command.extendedrenderer.config
-command.extendedrenderer.coroutil
 command.extrautils2.xudebug
 command.fill
 command.forge.dimensions
@@ -12849,9 +12841,9 @@ command.title
 command.toggledownfall
 command.topaddons.tophelmet
 command.tp
+command.treechopper.treechopper
 command.trigger
 command.twilightforest.tffeature
 command.weather
 command.worldborder
 command.xp
-command.zombieawareness.za
