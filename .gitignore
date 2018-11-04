@@ -1,6 +1,5 @@
 /options.txt
 /optionsof.txt
-/config
 /FreeLauncher.*
 /launcher_profiles.json
 /.mixin.out
@@ -27,3 +26,7 @@ mods/JustEnoughButtons
 /OpenComputersMod-1.7.2.67-lua53-native.64.dll
 tv-cache
 psi_persistent
+versions/1.12.2-forge1.12.2-14.23.5.2772/1.12.2-forge1.12.2-14.23.5.2772-natives-*
+
+config/*
+!config/RPG-HUD
