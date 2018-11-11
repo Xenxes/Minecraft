@@ -3,7 +3,7 @@
     "DefaultProfile": {
       "name": "DefaultProfile",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2772",
-      "javaArgs": "-Xmx5G -Xms5G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+UseBiasedLocking -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+UseCompressedOops -client -d64"
+      "javaArgs": "-Xmx6G -Xms6G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+UseBiasedLocking -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+UseCompressedOops -client -d64"
     }
   },
   "selectedProfile": "DefaultProfile",
