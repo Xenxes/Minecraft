@@ -4,6 +4,9 @@
 		"settings": true,
 		"admin_panel": false
 	},
+	"ftbguides": {
+		"guides": true
+	},
 	"ftbutilities": {
 		"toggle.gamemode": false,
 		"toggle.rain": false,

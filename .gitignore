@@ -9,7 +9,6 @@
 /logs
 /resourcepacks
 /shaderpacks
-/scripts
 /saves
 /screenshots
 realms_persistence.json
@@ -29,6 +28,10 @@ psi_persistent
 versions/1.12.2-forge1.12.2-14.23.5.2772/1.12.2-forge1.12.2-14.23.5.2772-natives-*
 usernamecache.json
 ModernCraft
-
-config/*
-!config/RPG-HUD
+backups
+.ReAuth.cfg
+local
+astralsorcery
+astralsorcery_persistent
+woot
+valkyrielib
