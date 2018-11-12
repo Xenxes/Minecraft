@@ -7,4 +7,4 @@ if not exist options.txt (
 )
 
 
-call launcher.exe
+start javaw -jar launcher.jar
