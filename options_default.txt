@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["Xen_PureBDcraft_64x_MC112.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
