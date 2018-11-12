@@ -2,19 +2,19 @@
 	"ftblib": {
 		"my_team": true,
 		"settings": true,
-		"admin_panel": false
+		"admin_panel": true
 	},
 	"ftbguides": {
 		"guides": true
 	},
 	"ftbutilities": {
-		"toggle.gamemode": false,
-		"toggle.rain": false,
-		"toggle.day": false,
-		"toggle.night": false,
-		"heal": false,
+		"toggle.gamemode": true,
+		"toggle.rain": true,
+		"toggle.day": true,
+		"toggle.night": true,
+		"heal": true,
 		"claimed_chunks": true,
-		"trash_can": false,
-		"leaderboards": false
+		"trash_can": true,
+		"leaderboards": true
 	}
 }

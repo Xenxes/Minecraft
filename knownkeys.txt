@@ -37,13 +37,7 @@ Mode Switch Key
 Side Inventory Key
 Hub Expand Key
 keybind.baublesinventory
-quark.keybind.dropoff
-quark.keybind.changeHotbar
-quark.keybind.chestSort
-quark.keybind.chestDropoff
-quark.keybind.chestMerge
-quark.keybind.chestRestock
-quark.keybind.chestExtract
+quark.keybind.toggleAutojump
 quark.emote.no
 quark.emote.yes
 quark.emote.wave
@@ -57,7 +51,13 @@ quark.emote.headbang
 quark.emote.weep
 quark.emote.facepalm
 quark.keybind.lockBuilding
-quark.keybind.toggleAutojump
+quark.keybind.dropoff
+quark.keybind.changeHotbar
+quark.keybind.chestSort
+quark.keybind.chestDropoff
+quark.keybind.chestMerge
+quark.keybind.chestRestock
+quark.keybind.chestExtract
 key.jei.toggleOverlay
 key.jei.focusSearch
 key.jei.toggleCheatMode

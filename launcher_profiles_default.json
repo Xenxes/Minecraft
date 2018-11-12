@@ -2,8 +2,8 @@
   "profiles": {
     "DefaultProfile": {
       "name": "DefaultProfile",
-      "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2772",
-      "javaArgs": "-Xmx6G -Xms6G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+UseBiasedLocking -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+UseCompressedOops -client -d64"
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2759",
+      "javaArgs": "-Xmx6G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -XX:+UseBiasedLocking -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+UseCompressedOops -client -d64"
     }
   },
   "selectedProfile": "DefaultProfile",
