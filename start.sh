@@ -7,4 +7,4 @@ if [ ! -f options.txt ]; then
     ./reset_settings.sh
 fi
 
-java -jar launcher.jar
+/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -jar launcher.jar
