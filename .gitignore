@@ -21,11 +21,10 @@ realms_persistence.json
 Thumbs.db
 mods/JustEnoughButtons
 /BotaniaVars.dat
-/OpenComputersMod-1.7.2.67-lua52-native.64.dll
-/OpenComputersMod-1.7.2.67-lua53-native.64.dll
+/OpenComputersMod-*
 tv-cache
 psi_persistent
-versions/1.12.2-forge1.12.2-14.23.4.2759/1.12.2-forge1.12.2-14.23.4.2759-natives-*
+versions/1.12.2-forge1.12.2-14.23.5.2768/1.12.2-forge1.12.2-14.23.5.2768-natives-*
 usernamecache.json
 ModernCraft
 backups

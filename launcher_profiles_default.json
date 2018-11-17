@@ -2,7 +2,7 @@
   "profiles": {
     "DefaultProfile": {
       "name": "DefaultProfile",
-      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2759",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768",
       "javaArgs": "-Xmx6G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -XX:+UseBiasedLocking -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+UseCompressedOops -client -d64"
     }
   },
